@@ -193,6 +193,36 @@ const songs = [
         artist: "Credit:Tseries",
         audio: "assets/song9.mp3",
         cover: "assets/album-art9.png"
+    },
+    {
+        title: "Kesariya | Brahmāstra",
+        artist: "Credit:Sony Music India",
+        audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        cover: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+        title: "Raataan Lambiyan | Shershaah",
+        artist: "Credit:Sony Music India",
+        audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        cover: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+        title: "Agar Tum Saath Ho | Tamasha",
+        artist: "Credit:Tseries",
+        audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        cover: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+        title: "Apna Bana Le | Bhediya",
+        artist: "Credit:Zee Music Company",
+        audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        cover: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=80"
+    },
+    {
+        title: "Pehle Bhi Main | Animal",
+        artist: "Credit:Tseries",
+        audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        cover: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&auto=format&fit=crop&q=80"
     }
 ]; 
 
